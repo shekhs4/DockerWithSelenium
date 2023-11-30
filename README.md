@@ -1,1 +1,1 @@
-# DockerWithSelenium
+# MavenSeleniumJenkins
